@@ -1,0 +1,7 @@
+ramfjord-1-qb.mzXML
+ramfjord-2-qb.mzXML
+ramfjord-3-qb.mzXML
+ramfjord-4-qb.mzXML
+ramfjord-5-qb.mzXML
+ramfjord-6-qb.mzXML
+samplenames.txt
